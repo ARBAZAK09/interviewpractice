@@ -1,0 +1,18 @@
+.Login{
+    margin:auto;
+    margin-top: 20px;
+    padding:10px;
+    background-color:silver;
+     width: 500px; 
+    height: 300px;
+    align-items: center;
+}
+.Login input{
+    background-color: burlywood;
+    margin-top: 10px;
+
+}
+.Login Button{
+    margin-top: 10px;
+
+}
